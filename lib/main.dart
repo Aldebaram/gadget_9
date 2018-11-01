@@ -6,7 +6,7 @@ import 'dart:io';
 import 'package:dio/dio.dart';
 
 void main() => runApp(new MaterialApp(
-  title: 'Forms in Flutter',
+  title: 'D-MAIL Sender',
   home: new EmailPage(),
 ));
 
